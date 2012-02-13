@@ -13,6 +13,7 @@ group :development do
   gem 'rspec-rails'
   gem 'annotate'
   gem 'faker'
+  gem 'autotest-growl'
 end
 
 group :test do
